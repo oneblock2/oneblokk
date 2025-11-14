@@ -1,0 +1,407 @@
+[19:17:27] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[19:17:27] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[19:17:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:17:30] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[19:17:30] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - Geyser-Spigot (2.9.0-SNAPSHOT), ViaVersion (5.5.1), floodgate (2.2.5-SNAPSHOT (b121-55a85ec))
+[19:17:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:17:37] [ServerMain/INFO]: Loaded 1407 recipes
+[19:17:38] [ServerMain/INFO]: Loaded 1520 advancements
+[19:17:38] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[19:17:38] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 373.0ms
+[19:17:38] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:17:38] [Server thread/INFO]: Loading properties
+[19:17:38] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[19:17:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:17:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:17:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:17:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[19:17:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[19:17:40] [Server thread/INFO]: Default game type: SURVIVAL
+[19:17:40] [Server thread/INFO]: Generating keypair
+[19:17:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:17:40] [Server thread/INFO]: Using epoll channel type
+[19:17:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:17:40] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[19:17:41] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[19:17:42] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[19:17:42] [Server thread/INFO]: [floodgate] Took 1,034ms to boot Floodgate
+[19:17:42] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.1
+[19:17:42] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.1 is now loaded. Registering protocol transformers and injecting...
+[19:17:43] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:17:43] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:17:43] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.0-SNAPSHOT
+[19:17:44] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[19:17:44] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[19:17:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:17:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:17:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:17:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:17:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:17:44] [Server thread/INFO]: Preparing level "world"
+[19:17:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:17:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:17:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:17:46] [Server thread/INFO]: Preparing spawn area: 6%
+[19:17:46] [Server thread/INFO]: Preparing spawn area: 36%
+[19:17:46] [Server thread/INFO]: Time elapsed: 1545 ms
+[19:17:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:17:46] [Server thread/INFO]: Preparing spawn area: 0%
+[19:17:47] [Server thread/INFO]: Preparing spawn area: 71%
+[19:17:47] [Server thread/INFO]: Time elapsed: 546 ms
+[19:17:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:17:47] [Server thread/INFO]: Preparing spawn area: 0%
+[19:17:47] [Server thread/INFO]: Time elapsed: 222 ms
+[19:17:47] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[19:17:47] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.1
+[19:17:47] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[19:17:47] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.0-SNAPSHOT
+[19:17:49] [Server thread/INFO]: [spark] Starting background profiler...
+[19:17:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:17:50] [Server thread/INFO]: [Geyser-Spigot] 
+[19:17:50] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.0-b981 (git-master-bf13757)
+[19:17:50] [Server thread/INFO]: [Geyser-Spigot] 
+[19:17:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:17:54] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 15895
+[19:17:54] [Server thread/INFO]: [Geyser-Spigot] Done (3.943s)! Run /geyser help for help!
+[19:17:54] [Server thread/INFO]: Done preparing level "world" (10.352s)
+[19:17:54] [Server thread/INFO]: Running delayed init tasks
+[19:17:54] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:17:54] [Server thread/INFO]: Done (28.745s)! For help, type "help"
+[19:18:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:22:54] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Roos7w7
+[19:22:54] [localSession-7-2/INFO]: [Geyser-Spigot] Roos7w7 (logged in as: Roos7w7) has connected to the Java server
+[19:22:55] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Roos7w7 joined (UUID: 00000000-0000-0000-0009-01faa3d30888)
+[19:22:55] [Server thread/INFO]: .Roos7w7 joined the game
+[19:22:55] [Server thread/INFO]: .Roos7w7[/127.217.236.109:0] logged in with entity id 17 at ([world]-473.46191676738766, 63.0, 55.89276124735662)
+[19:33:29] [Server thread/INFO]: .Roos7w7 has made the advancement [Getting an Upgrade]
+[19:47:51] [Server thread/WARN]: .Roos7w7 moved wrongly!
+[19:52:16] [User Authenticator #0/INFO]: UUID of player RakanCharmiing is b76f5ebc-96dd-3c05-a899-79247583c23b
+[19:52:17] [Server thread/INFO]: RakanCharmiing joined the game
+[19:52:17] [Server thread/INFO]: RakanCharmiing[/127.248.185.103:51401] logged in with entity id 6211 at ([world]-474.3639167458881, 63.0, 52.73520960275596)
+[19:53:12] [Async Chat Thread - #0/INFO]: [Not Secure] <.Roos7w7> me puedes pasar las coordenadas de la casa?
+[19:53:17] [Async Chat Thread - #0/INFO]: [Not Secure] <.Roos7w7> me perdí
+[19:53:28] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7 RakanCharmiing
+[19:53:28] [Server thread/INFO]: [RakanCharmiing: Teleported .Roos7w7 to RakanCharmiing]
+[19:54:18] [Async Chat Thread - #2/INFO]: [Not Secure] <.Roos7w7> dónde estamos
+[19:54:21] [Server thread/INFO]: RakanCharmiing issued server command: /gamemode creative
+[19:54:21] [Server thread/INFO]: [RakanCharmiing: Set own game mode to Creative Mode]
+[19:55:42] [Server thread/INFO]: RakanCharmiing issued server command: /locate biome minecraft:cherry_grove
+[19:55:42] [Server thread/INFO]: Locating element minecraft:cherry_grove took 98 ms
+[19:55:46] [Server thread/INFO]: RakanCharmiing issued server command: /tp @s -329 140 1019
+[19:55:46] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to -328.500000, 140.000000, 1019.500000]
+[19:55:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3200ms or 64 ticks behind
+[19:56:36] [Async Chat Thread - #4/INFO]: [Not Secure] <RakanCharmiing> estoy buscando
+[19:57:48] [Async Chat Thread - #6/INFO]: [Not Secure] <.Roos7w7> te perdiste?
+[19:57:55] [Async Chat Thread - #6/INFO]: [Not Secure] <RakanCharmiing> si
+[19:58:15] [Async Chat Thread - #6/INFO]: [Not Secure] <.Roos7w7> sabes llegar a dónde quedamos?
+[19:58:20] [Async Chat Thread - #6/INFO]: [Not Secure] <RakanCharmiing> nop
+[19:59:25] [Server thread/INFO]: RakanCharmiing issued server command: /locate biome minecraft:cherry_grove
+[19:59:25] [Server thread/INFO]: Locating element minecraft:cherry_grove took 18 ms
+[19:59:39] [Server thread/INFO]: RakanCharmiing issued server command: /seed
+[20:00:55] [Server thread/INFO]: RakanCharmiing issued server command: /time set 1
+[20:00:55] [Server thread/INFO]: [RakanCharmiing: Set the time to 1]
+[20:01:42] [Async Chat Thread - #8/INFO]: [Not Secure] <.Roos7w7> si no dame tus cosas y Haste kill para que aparezcas en la cama
+[20:02:23] [Server thread/INFO]: RakanCharmiing issued server command: /gamerule keepInventory true
+[20:02:23] [Server thread/INFO]: [RakanCharmiing: Gamerule keepInventory is now set to: true]
+[20:02:28] [Async Chat Thread - #8/INFO]: [Not Secure] <.Roos7w7> alex
+[20:02:33] [Server thread/INFO]: RakanCharmiing issued server command: /kill
+[20:02:33] [Server thread/INFO]: RakanCharmiing was killed
+[20:02:33] [Server thread/INFO]: [RakanCharmiing: Killed RakanCharmiing]
+[20:02:40] [Server thread/INFO]: RakanCharmiing issued server command: /gamemode survival
+[20:02:40] [Server thread/INFO]: [RakanCharmiing: Set own game mode to Survival Mode]
+[20:02:43] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7 .Roos7w7
+[20:02:43] [Server thread/INFO]: [RakanCharmiing: Teleported .Roos7w7 to .Roos7w7]
+[20:02:48] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7 RakanCharmiing
+[20:02:48] [Server thread/INFO]: [RakanCharmiing: Teleported .Roos7w7 to RakanCharmiing]
+[20:02:49] [Async Chat Thread - #8/INFO]: [Not Secure] <.Roos7w7> tú ayer me hiciste captura y ahí no dice las coordenadas?
+[20:02:57] [Async Chat Thread - #8/INFO]: [Not Secure] <.Roos7w7> a
+[20:05:55] [Server thread/INFO]: RakanCharmiing lost connection: Disconnected
+[20:05:55] [Server thread/INFO]: RakanCharmiing left the game
+[20:06:08] [User Authenticator #1/INFO]: UUID of player RakanCharmiing is b76f5ebc-96dd-3c05-a899-79247583c23b
+[20:06:08] [Server thread/INFO]: RakanCharmiing joined the game
+[20:06:08] [Server thread/INFO]: RakanCharmiing[/127.248.185.103:47145] logged in with entity id 17897 at ([world]-286.54282641969075, 81.0, -279.41861145736647)
+[20:07:29] [Async Chat Thread - #10/INFO]: [Not Secure] <.Roos7w7> toma
+[20:07:53] [Async Chat Thread - #10/INFO]: [Not Secure] <RakanCharmiing> estoy en una cueva haciendo una mina
+[20:11:25] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7
+[20:11:25] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to .Roos7w7]
+[20:11:40] [Async Chat Thread - #12/INFO]: [Not Secure] <RakanCharmiing> que quieres que tome
+[20:11:49] [Async Chat Thread - #12/INFO]: [Not Secure] <RakanCharmiing> que quieres que tome
+[20:11:51] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7
+[20:11:51] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to .Roos7w7]
+[20:12:10] [Async Chat Thread - #12/INFO]: [Not Secure] <RakanCharmiing> graciass
+[20:12:41] [Server thread/INFO]: RakanCharmiing has made the advancement [Isn't It Iron Pick]
+[20:16:00] [Async Chat Thread - #14/INFO]: [Not Secure] <.Roos7w7> en dónde es la mina?
+[20:16:17] [Async Chat Thread - #14/INFO]: [Not Secure] <RakanCharmiing> no hay apenas la iba hacer
+[20:16:42] [Async Chat Thread - #14/INFO]: [Not Secure] <.Roos7w7> para allá hay demasiadas cuevas y un pueblo
+[20:17:15] [Async Chat Thread - #14/INFO]: [Not Secure] <RakanCharmiing> te sigo
+[20:17:41] [Async Chat Thread - #14/INFO]: [Not Secure] <.Roos7w7> iba a decirte que iba a ir contigo ala que ibas hacer
+[20:18:45] [Server thread/INFO]: RakanCharmiing has made the advancement [Monster Hunter]
+[20:23:24] [Async Chat Thread - #16/INFO]: [Not Secure] <RakanCharmiing> ven
+[20:26:23] [Server thread/INFO]: .Roos7w7 has made the advancement [Isn't It Iron Pick]
+[20:26:38] [Async Chat Thread - #18/INFO]: [Not Secure] <.Roos7w7> gracias
+[20:29:45] [Server thread/INFO]: .Roos7w7 has made the advancement [Acquire Hardware]
+[20:32:18] [Server thread/INFO]: .Roos7w7 has made the advancement [Diamonds!]
+[20:33:07] [Server thread/INFO]: RakanCharmiing has made the advancement [Diamonds!]
+[20:35:05] [Async Chat Thread - #20/INFO]: [Not Secure] <.Roos7w7> ven
+[20:35:24] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7
+[20:35:24] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to .Roos7w7]
+[20:36:20] [Async Chat Thread - #22/INFO]: [Not Secure] <RakanCharmiing> coje el diamante
+[20:36:45] [Async Chat Thread - #22/INFO]: [Not Secure] <RakanCharmiing> aqui
+[20:39:01] [Server thread/INFO]: RakanCharmiing has made the advancement [Suit Up]
+[20:39:04] [Async Chat Thread - #24/INFO]: [Not Secure] <RakanCharmiing> toma
+[20:39:09] [Async Chat Thread - #24/INFO]: [Not Secure] <RakanCharmiing> ven
+[20:39:35] [Server thread/INFO]: .Roos7w7 has made the advancement [Suit Up]
+[20:39:41] [Async Chat Thread - #24/INFO]: [Not Secure] <RakanCharmiing> ven este bloque te gusta no?
+[20:39:50] [Async Chat Thread - #24/INFO]: [Not Secure] <RakanCharmiing> atras
+[20:40:36] [Async Chat Thread - #24/INFO]: [Not Secure] <RakanCharmiing> uy xd
+[20:40:47] [Async Chat Thread - #24/INFO]: [Not Secure] <.Roos7w7> sii
+[20:40:52] [Async Chat Thread - #24/INFO]: [Not Secure] <RakanCharmiing> encontramos el warden otra vez
+[20:40:54] [Async Chat Thread - #24/INFO]: [Not Secure] <RakanCharmiing> xd
+[20:40:59] [Async Chat Thread - #24/INFO]: [Not Secure] <RakanCharmiing> ven
+[20:41:02] [Async Chat Thread - #24/INFO]: [Not Secure] <RakanCharmiing> mira
+[20:41:39] [Async Chat Thread - #24/INFO]: [Not Secure] <.Roos7w7> me da miedo
+[20:41:46] [Async Chat Thread - #24/INFO]: [Not Secure] <RakanCharmiing> vendremos luego
+[20:44:11] [Async Chat Thread - #26/INFO]: [Not Secure] <RakanCharmiing> te di armadura
+[20:44:31] [Async Chat Thread - #26/INFO]: [Not Secure] <.Roos7w7> gracias
+[20:45:26] [Server thread/INFO]: RakanCharmiing has made the advancement [Sneak 100]
+[20:45:31] [Async Chat Thread - #26/INFO]: [Not Secure] <.Roos7w7> dónde estás
+[20:45:43] [Async Chat Thread - #26/INFO]: [Not Secure] <RakanCharmiing> me cai donde la webada estaa xd
+[20:46:24] [Server thread/INFO]: Villager Villager['Villager'/17058, uuid='079655ec-ea4e-402f-b22b-86fd9c25e5d1', l='ServerLevel[world]', x=-329.20, y=64.50, z=-265.51, cpos=[-21, -17], tl=52558, v=true] died, message: 'Villager was slain by Zombie'
+[20:46:25] [Server thread/INFO]: .Roos7w7 has made the advancement [Monster Hunter]
+[20:48:04] [Server thread/INFO]: RakanCharmiing has made the advancement [Cover Me with Diamonds]
+[20:49:23] [Async Chat Thread - #28/INFO]: [Not Secure] <.Roos7w7> sigues allí?
+[20:49:28] [Async Chat Thread - #28/INFO]: [Not Secure] <.Roos7w7> ay no
+[20:49:37] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7
+[20:49:37] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to .Roos7w7]
+[20:49:40] [Async Chat Thread - #28/INFO]: [Not Secure] <.Roos7w7> por qué lo escuché? xd
+[20:49:49] [Async Chat Thread - #28/INFO]: [Not Secure] <RakanCharmiing> que haces encerrada xd
+[20:50:06] [Async Chat Thread - #28/INFO]: [Not Secure] <.Roos7w7> no sé cómo volver
+[20:50:19] [Async Chat Thread - #28/INFO]: [Not Secure] <.Roos7w7> y estoy comiendo y no quiero que me maten
+[20:50:27] [Async Chat Thread - #28/INFO]: [Not Secure] <RakanCharmiing> ah entiendoo
+[20:50:44] [Async Chat Thread - #28/INFO]: [Not Secure] <RakanCharmiing> encierrate entonces
+[20:50:54] [Async Chat Thread - #28/INFO]: [Not Secure] <.Roos7w7> será que subimos de aquí ?
+[20:51:25] [Server thread/INFO]: RakanCharmiing issued server command: /gamemode creative
+[20:51:25] [Server thread/INFO]: [RakanCharmiing: Set own game mode to Creative Mode]
+[20:51:34] [Async Chat Thread - #28/INFO]: [Not Secure] <.Roos7w7> ?
+[20:51:45] [Async Chat Thread - #28/INFO]: [Not Secure] <.Roos7w7> Jesus cristo o q
+[20:51:52] [Server thread/INFO]: RakanCharmiing issued server command: /gamemode survival
+[20:51:52] [Server thread/INFO]: [RakanCharmiing: Set own game mode to Survival Mode]
+[20:52:00] [Async Chat Thread - #28/INFO]: [Not Secure] <RakanCharmiing> sube para que puedas comer
+[20:53:11] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7
+[20:53:11] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to .Roos7w7]
+[20:53:20] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7 .Roos7w7
+[20:53:20] [Server thread/INFO]: [RakanCharmiing: Teleported .Roos7w7 to .Roos7w7]
+[20:53:25] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7 RakanCharmiing
+[20:53:25] [Server thread/INFO]: [RakanCharmiing: Teleported .Roos7w7 to RakanCharmiing]
+[20:59:00] [Async Chat Thread - #30/INFO]: [Not Secure] <.Roos7w7> ya comí
+[20:59:02] [Server thread/INFO]: RakanCharmiing issued server command: /weather clear
+[20:59:02] [Server thread/INFO]: [RakanCharmiing: Set the weather to clear]
+[20:59:10] [Async Chat Thread - #30/INFO]: [Not Secure] <RakanCharmiing> okas
+[20:59:30] [Async Chat Thread - #30/INFO]: [Not Secure] <.Roos7w7> si quieres te quitas las botas y te haces unas de hierro o diamante
+[20:59:47] [Async Chat Thread - #31/INFO]: [Not Secure] <RakanCharmiing> estoy bn asi
+[21:00:41] [Async Chat Thread - #31/INFO]: [Not Secure] <RakanCharmiing> ya sabes como haras la casa?
+[21:00:52] [Async Chat Thread - #31/INFO]: [Not Secure] <.Roos7w7> más o menos
+[21:00:58] [Async Chat Thread - #31/INFO]: [Not Secure] <.Roos7w7> falta materialxd
+[21:01:00] [Async Chat Thread - #31/INFO]: [Not Secure] <RakanCharmiing> q necesitas?
+[21:01:08] [Async Chat Thread - #31/INFO]: [Not Secure] <.Roos7w7> para eso son los pinos
+[21:01:26] [Async Chat Thread - #30/INFO]: [Not Secure] <.Roos7w7> y de esa piedra oscura
+[21:01:43] [Async Chat Thread - #30/INFO]: [Not Secure] <.Roos7w7> no sé si son de estás cuevas o las del Inframundo
+[21:02:05] [Async Chat Thread - #30/INFO]: [Not Secure] <RakanCharmiing> yo buscare todo dime todo lo que necesitas nomas
+[21:02:47] [Async Chat Thread - #30/INFO]: [Not Secure] <.Roos7w7> te puedo pasar el vídeo para que veas ?
+[21:02:52] [Async Chat Thread - #30/INFO]: [Not Secure] <RakanCharmiing> ok
+[21:06:12] [Async Chat Thread - #32/INFO]: [Not Secure] <RakanCharmiing> ok ya vi
+[21:06:44] [Async Chat Thread - #32/INFO]: [Not Secure] <.Roos7w7> es mucho? busco algo más pequeño?
+[21:06:50] [Async Chat Thread - #32/INFO]: [Not Secure] <RakanCharmiing> esta bien asi
+[21:07:19] [Async Chat Thread - #32/INFO]: [Not Secure] <RakanCharmiing> iniciala si quiere
+[21:07:57] [Async Chat Thread - #32/INFO]: [Not Secure] <.Roos7w7> con que piedra es ?
+[21:08:11] [Async Chat Thread - #32/INFO]: [Not Secure] <RakanCharmiing> la que esta abajo donde estabamos
+[21:08:45] [Async Chat Thread - #32/INFO]: [Not Secure] <RakanCharmiing> ahi va el frente de la csa
+[21:08:51] [Async Chat Thread - #32/INFO]: [Not Secure] <RakanCharmiing> casa ahi que quitar eso
+[21:09:47] [Async Chat Thread - #32/INFO]: [Not Secure] <.Roos7w7> alex
+[21:09:54] [Async Chat Thread - #32/INFO]: [Not Secure] <RakanCharmiing> si
+[21:10:00] [Async Chat Thread - #32/INFO]: [Not Secure] <.Roos7w7> no sé cómo iniciarla xdd
+[21:10:10] [Async Chat Thread - #32/INFO]: [Not Secure] <RakanCharmiing> si tienes el plano ahi
+[21:10:24] [Async Chat Thread - #32/INFO]: [Not Secure] <RakanCharmiing> en el video xd
+[21:10:40] [Async Chat Thread - #32/INFO]: [Not Secure] <RakanCharmiing> esta bien la hare yo
+[21:17:29] [Async Chat Thread - #34/INFO]: [Not Secure] <RakanCharmiing> zzz
+[21:17:38] [Async Chat Thread - #34/INFO]: [Not Secure] <RakanCharmiing> dujuerme
+[21:28:00] [Async Chat Thread - #36/INFO]: [Not Secure] <RakanCharmiing> necesitamos roble oscuro
+[21:28:13] [Async Chat Thread - #36/INFO]: [Not Secure] <.Roos7w7> enserio?;-;
+[21:28:19] [Async Chat Thread - #36/INFO]: [Not Secure] <RakanCharmiing> yep
+[21:28:44] [Async Chat Thread - #36/INFO]: [Not Secure] <RakanCharmiing> voy a ver si veo
+[21:28:47] [Async Chat Thread - #36/INFO]: [Not Secure] <RakanCharmiing> duerme
+[21:29:00] [Async Chat Thread - #36/INFO]: [Not Secure] <RakanCharmiing> zzzzzzzzzzz
+[21:32:11] [Async Chat Thread - #38/INFO]: [Not Secure] <.Roos7w7> yo ya estuve allí
+[21:32:26] [Async Chat Thread - #38/INFO]: [Not Secure] <RakanCharmiing> okai
+[21:33:59] [Server thread/INFO]: .Roos7w7 has made the advancement [Ice Bucket Challenge]
+[21:35:04] [Async Chat Thread - #40/INFO]: [Not Secure] <.Roos7w7> se ve mi skin?
+[21:35:07] [Async Chat Thread - #40/INFO]: [Not Secure] <RakanCharmiing> nop
+[21:39:39] [Server thread/INFO]: RakanCharmiing issued server command: /locate structure minecraft:mansion
+[21:39:39] [Server thread/INFO]: Locating element minecraft:mansion took 181 ms
+[21:39:42] [Server thread/INFO]: RakanCharmiing issued server command: /tp @s 656 ~ -1248
+[21:39:42] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to 656.500000, 63.000000, -1247.500000]
+[21:39:54] [Server thread/INFO]: RakanCharmiing suffocated in a wall
+[21:40:40] [Server thread/INFO]: RakanCharmiing issued server command: /locate biome minecraft:dark_forest
+[21:40:41] [Server thread/INFO]: Locating element minecraft:dark_forest took 273 ms
+[21:40:43] [Server thread/INFO]: RakanCharmiing issued server command: /tp @s -1010 111 483
+[21:40:43] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to -1009.500000, 111.000000, 483.500000]
+[21:40:44] [Server thread/WARN]: RakanCharmiing moved too quickly! 0.0,-10.806526110008988,0.0
+[21:41:06] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7 RakanCharmiing
+[21:41:06] [Server thread/INFO]: [RakanCharmiing: Teleported .Roos7w7 to RakanCharmiing]
+[21:41:27] [Async Chat Thread - #42/INFO]: [Not Secure] <.Roos7w7> estaba robando en el pueblo
+[21:41:41] [Async Chat Thread - #43/INFO]: [Not Secure] <RakanCharmiing> Se nota
+[21:41:54] [Async Chat Thread - #43/INFO]: [Not Secure] <.Roos7w7> porq
+[21:42:26] [Async Chat Thread - #43/INFO]: [Not Secure] <.Roos7w7> no veo
+[21:42:33] [Async Chat Thread - #43/INFO]: [Not Secure] <RakanCharmiing> el q?
+[21:44:04] [Async Chat Thread - #44/INFO]: [Not Secure] <.Roos7w7> a conchale
+[21:44:52] [Async Chat Thread - #44/INFO]: [Not Secure] <.Roos7w7> por qué dijiste que se nota
+[21:45:03] [Async Chat Thread - #44/INFO]: [Not Secure] <.Roos7w7> yo veía bien el juego
+[21:45:06] [Async Chat Thread - #44/INFO]: [Not Secure] <RakanCharmiing> porque eres negra
+[21:45:10] [Async Chat Thread - #44/INFO]: [Not Secure] <.Roos7w7> se veía oscuro
+[21:45:47] [Async Chat Thread - #44/INFO]: [Not Secure] <.Roos7w7> nego uste
+[21:45:56] [Async Chat Thread - #44/INFO]: [Not Secure] <RakanCharmiing> tu culo
+[21:46:13] [Async Chat Thread - #44/INFO]: [Not Secure] <.Roos7w7> y le subí el brillo el juego y no veía nada igual
+[21:46:23] [Async Chat Thread - #44/INFO]: [Not Secure] <RakanCharmiing> time set 1
+[21:46:28] [Server thread/INFO]: RakanCharmiing issued server command: /time set 1
+[21:46:28] [Server thread/INFO]: [RakanCharmiing: Set the time to 1]
+[21:46:33] [Async Chat Thread - #44/INFO]: [Not Secure] <.Roos7w7> me acordé apenas el brillo del teléfono xd
+[21:46:33] [Async Chat Thread - #44/INFO]: [Not Secure] <RakanCharmiing> ya ves?
+[21:46:41] [Async Chat Thread - #44/INFO]: [Not Secure] <.Roos7w7> le subí y ya puedo ver xdd
+[21:46:52] [Server thread/INFO]: RakanCharmiing issued server command: /kill
+[21:46:52] [Server thread/INFO]: RakanCharmiing was killed
+[21:46:52] [Server thread/INFO]: [RakanCharmiing: Killed RakanCharmiing]
+[21:46:58] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7 RakanCharmiing
+[21:46:58] [Server thread/INFO]: [RakanCharmiing: Teleported .Roos7w7 to RakanCharmiing]
+[21:50:00] [Async Chat Thread - #46/INFO]: [Not Secure] <.Roos7w7> esa es la skin que tengo, no sé por qué no la ves
+[21:50:54] [Server thread/INFO]: RakanCharmiing lost connection: Disconnected
+[21:50:54] [Server thread/INFO]: RakanCharmiing left the game
+[21:50:54] [Async Chat Thread - #46/INFO]: [Not Secure] <.Roos7w7> por q xd?
+[21:52:28] [User Authenticator #2/INFO]: UUID of player RakanCharmiing is b76f5ebc-96dd-3c05-a899-79247583c23b
+[21:52:29] [Server thread/INFO]: RakanCharmiing joined the game
+[21:52:29] [Server thread/INFO]: RakanCharmiing[/127.248.185.103:45245] logged in with entity id 38329 at ([world]-259.08177294800953, 111.0, -248.49307368258363)
+[21:52:45] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username redlayon1743
+[21:52:45] [localSession-7-3/INFO]: [Geyser-Spigot] redlayon1743 (logged in as: redlayon1743) has connected to the Java server
+[21:52:45] [Server thread/INFO]: [floodgate] Floodgate player logged in as .redlayon1743 joined (UUID: 00000000-0000-0000-0009-01fae4776378)
+[21:52:45] [Server thread/INFO]: .redlayon1743 joined the game
+[21:52:45] [Server thread/INFO]: .redlayon1743[/127.248.185.103:0] logged in with entity id 38361 at ([world]-9.597629, 69.0, -14.867788)
+[21:52:57] [Server thread/INFO]: RakanCharmiing issued server command: /tp .redlayon1743 RakanCharmiing
+[21:52:57] [Server thread/INFO]: [RakanCharmiing: Teleported .redlayon1743 to RakanCharmiing]
+[21:53:01] [Server thread/INFO]: RakanCharmiing lost connection: Disconnected
+[21:53:01] [Server thread/INFO]: RakanCharmiing left the game
+[21:55:24] [Async Chat Thread - #48/INFO]: [Not Secure] <.Roos7w7> no te preocupes, la verdad pensé que se veía pero como no me habías dicho nada ya luego pensé que no se ve
+[21:55:29] [Async Chat Thread - #48/INFO]: [Not Secure] <.Roos7w7> por eso pregunté
+[21:55:50] [Async Chat Thread - #48/INFO]: [Not Secure] <.Roos7w7> y te mostré
+[21:56:00] [Async Chat Thread - #48/INFO]: [Not Secure] <.Roos7w7> para que vieras cuál tenía
+[21:56:25] [Async Chat Thread - #48/INFO]: [Not Secure] <.redlayon1743> tu me la ves a mii?
+[21:56:33] [Async Chat Thread - #48/INFO]: [Not Secure] <.Roos7w7> si
+[21:56:47] [Async Chat Thread - #48/INFO]: [Not Secure] <.redlayon1743> bueno al menos tu nos ves a los dos asi :D
+[21:58:34] [Async Chat Thread - #50/INFO]: [Not Secure] <.Roos7w7> :C
+[21:58:48] [Async Chat Thread - #50/INFO]: [Not Secure] <.redlayon1743> Q paso?
+[21:59:03] [Server thread/INFO]: .redlayon1743 has made the advancement [Isn't It Iron Pick]
+[21:59:24] [Async Chat Thread - #50/INFO]: [Not Secure] <.redlayon1743> ???
+[21:59:32] [Async Chat Thread - #50/INFO]: [Not Secure] <.redlayon1743> que paso
+[22:00:23] [Server thread/INFO]: .redlayon1743 has made the advancement [Monster Hunter]
+[22:00:28] [Server thread/INFO]: .redlayon1743 has made the advancement [Sweet Dreams]
+[22:02:01] [Async Chat Thread - #52/INFO]: [Not Secure] <.Roos7w7> fue sin querer
+[22:02:14] [Async Chat Thread - #52/INFO]: [Not Secure] <.redlayon1743> No pasa nada tranquila xd
+[22:03:40] [Async Chat Thread - #54/INFO]: [Not Secure] <.Roos7w7> ahorita podemos hacer llamada?
+[22:03:51] [Async Chat Thread - #54/INFO]: [Not Secure] <.redlayon1743> esta bien
+[22:03:53] [Async Chat Thread - #54/INFO]: [Not Secure] <.Roos7w7> deja que cargue un poco el teléfono
+[22:04:06] [Async Chat Thread - #54/INFO]: [Not Secure] <.redlayon1743> okis
+[22:05:36] [Async Chat Thread - #56/INFO]: [Not Secure] <.Roos7w7> también puedo buscar un tutorial de un puente rosado?
+[22:05:40] [Async Chat Thread - #56/INFO]: [Not Secure] <.Roos7w7> uwu
+[22:05:48] [Async Chat Thread - #56/INFO]: [Not Secure] <.redlayon1743> es lo que tu quieras
+[22:05:55] [Async Chat Thread - #56/INFO]: [Not Secure] <.redlayon1743> el mundo es tuyo tambien
+[22:06:07] [Async Chat Thread - #56/INFO]: [Not Secure] <.Roos7w7> también es tuyo
+[22:06:16] [Async Chat Thread - #56/INFO]: [Not Secure] <.redlayon1743> por eso mi vida
+[22:06:41] [Async Chat Thread - #56/INFO]: [Not Secure] <.redlayon1743> tu puedes hacer lo que quieras tambien es tu mundo mi corazon
+[22:09:22] [Server thread/INFO]: .redlayon1743 has made the advancement [Acquire Hardware]
+[22:11:59] [Async Chat Thread - #58/INFO]: [Not Secure] <.redlayon1743> zzzzzz
+[22:12:08] [Async Chat Thread - #58/INFO]: [Not Secure] <.redlayon1743> dormir
+[22:12:22] [Async Chat Thread - #58/INFO]: [Not Secure] <.redlayon1743> ven
+[22:22:41] [Async Chat Thread - #60/INFO]: [Not Secure] <.redlayon1743> muuuuuuaaaaaaaaa
+[22:24:09] [Async Chat Thread - #62/INFO]: [Not Secure] <.Roos7w7> xd
+[22:27:55] [Async Chat Thread - #64/INFO]: [Not Secure] <.Roos7w7> quería saber si me veías de allá xdd
+[22:28:02] [Async Chat Thread - #64/INFO]: [Not Secure] <.redlayon1743> sip
+[22:28:05] [Async Chat Thread - #64/INFO]: [Not Secure] <.Roos7w7> cómo te veo muy concentrado xd
+[22:28:13] [Async Chat Thread - #64/INFO]: [Not Secure] <.redlayon1743> me das madera
+[22:28:33] [Async Chat Thread - #64/INFO]: [Not Secure] <.redlayon1743> Quieres que haga otra cosa?
+[22:28:45] [Async Chat Thread - #64/INFO]: [Not Secure] <.Roos7w7> cómo así
+[22:28:57] [Async Chat Thread - #64/INFO]: [Not Secure] <.redlayon1743> dices que estoy muy concentrado
+[22:29:08] [Async Chat Thread - #64/INFO]: [Not Secure] <.redlayon1743> quieres seguir la casita tu?
+[22:29:35] [Async Chat Thread - #64/INFO]: [Not Secure] <.redlayon1743> que hago entonces?
+[22:29:46] [Async Chat Thread - #64/INFO]: [Not Secure] <.Roos7w7> pero quiero que variemos, podemos hacer otra cosa mientras?
+[22:29:57] [Async Chat Thread - #64/INFO]: [Not Secure] <.redlayon1743> pues si
+[22:30:09] [Async Chat Thread - #64/INFO]: [Not Secure] <.redlayon1743> que te apetece?
+[22:30:22] [Async Chat Thread - #64/INFO]: [Not Secure] <.Roos7w7> no she
+[22:30:29] [Async Chat Thread - #64/INFO]: [Not Secure] <.redlayon1743> dime pe :c
+[22:30:56] [Async Chat Thread - #64/INFO]: [Not Secure] <.Roos7w7> vamos a minar?
+[22:31:15] [Async Chat Thread - #64/INFO]: [Not Secure] <.redlayon1743> lo que tu deses si eso quieres tu sipi
+[22:34:05] [Async Chat Thread - #66/INFO]: [Not Secure] <.redlayon1743> si te cansas de minecraft avisame y hacemos otra cosa si quieres
+[22:34:30] [Async Chat Thread - #66/INFO]: [Not Secure] <.Roos7w7> y yo preparándome para ir a minar XD
+[22:34:42] [Async Chat Thread - #66/INFO]: [Not Secure] <.redlayon1743> te estoy diciendo si estas cansada pe
+[22:35:38] [Async Chat Thread - #66/INFO]: [Not Secure] <.Roos7w7> y tú armadura
+[22:35:49] [Async Chat Thread - #66/INFO]: [Not Secure] <.redlayon1743> en mi otra cuenta xd
+[22:36:12] [Async Chat Thread - #66/INFO]: [Not Secure] <.Roos7w7> en cuál cuenta jugaras
+[22:36:19] [Async Chat Thread - #66/INFO]: [Not Secure] <.redlayon1743> las 2
+[22:36:34] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] redlayon1743 has disconnected from the Java server because of Bedrock client disconnected
+[22:36:34] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .redlayon1743 disconnected
+[22:36:34] [Server thread/INFO]: .redlayon1743 lost connection: Disconnected
+[22:36:34] [Server thread/INFO]: .redlayon1743 left the game
+[22:37:17] [User Authenticator #3/INFO]: UUID of player RakanCharmiing is b76f5ebc-96dd-3c05-a899-79247583c23b
+[22:37:18] [Server thread/INFO]: RakanCharmiing joined the game
+[22:37:18] [Server thread/INFO]: RakanCharmiing[/127.248.185.103:45589] logged in with entity id 43709 at ([world]-258.68708029884823, 111.0, -247.9870084684603)
+[22:38:24] [Async Chat Thread - #68/INFO]: [Not Secure] <RakanCharmiing> entonces dime quieres seguir en mc o prefieres que busquemos otra cosa que hacer?
+[22:38:51] [Async Chat Thread - #68/INFO]: [Not Secure] <.Roos7w7> en mine, o ya te aburriste?
+[22:39:31] [Async Chat Thread - #68/INFO]: [Not Secure] <RakanCharmiing> yo estoy bien te pregunto a ti
+[22:39:44] [Async Chat Thread - #68/INFO]: [Not Secure] <.Roos7w7> sigamos
+[22:39:54] [Async Chat Thread - #68/INFO]: [Not Secure] <RakanCharmiing> okas
+[22:40:02] [Async Chat Thread - #68/INFO]: [Not Secure] <.Roos7w7> ven
+[22:40:36] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7
+[22:40:36] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to .Roos7w7]
+[22:40:57] [Async Chat Thread - #68/INFO]: [Not Secure] <.Roos7w7> XD
+[22:41:02] [Async Chat Thread - #68/INFO]: [Not Secure] <.Roos7w7> no puedo entrar
+[22:42:45] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7
+[22:42:45] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to .Roos7w7]
+[22:44:34] [Async Chat Thread - #70/INFO]: [Not Secure] <.Roos7w7> los quitaste?
+[22:44:49] [Async Chat Thread - #70/INFO]: [Not Secure] <RakanCharmiing> nop
+[22:44:57] [Async Chat Thread - #70/INFO]: [Not Secure] <.Roos7w7> ya me di cuenta xd
+[22:46:23] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7 RakanCharmiing
+[22:46:23] [Server thread/INFO]: [RakanCharmiing: Teleported .Roos7w7 to RakanCharmiing]
+[22:46:43] [Async Chat Thread - #72/INFO]: [Not Secure] <.Roos7w7> que suena?
+[22:46:54] [Async Chat Thread - #72/INFO]: [Not Secure] <RakanCharmiing> los sensores
+[22:48:17] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7 RakanCharmiing
+[22:48:17] [Server thread/INFO]: [RakanCharmiing: Teleported .Roos7w7 to RakanCharmiing]
+[22:48:45] [Server thread/INFO]: .Roos7w7 has made the advancement [Sneak 100]
+[22:49:33] [Async Chat Thread - #74/INFO]: [Not Secure] <.Roos7w7> se puede perder el inventario?
+[22:49:39] [Async Chat Thread - #74/INFO]: [Not Secure] <RakanCharmiing> nop
+[22:51:37] [Async Chat Thread - #76/INFO]: [Not Secure] <.Roos7w7> y eso
+[22:53:38] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7
+[22:53:38] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to .Roos7w7]
+[22:53:48] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7
+[22:53:48] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to .Roos7w7]
+[22:53:51] [Server thread/INFO]: RakanCharmiing was obliterated by a sonically-charged shriek
+[22:53:55] [Async Chat Thread - #78/INFO]: [Not Secure] <RakanCharmiing> xd
+[22:53:56] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7
+[22:53:56] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to .Roos7w7]
+[22:54:50] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7
+[22:54:50] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to .Roos7w7]
+[22:55:22] [Async Chat Thread - #80/INFO]: [Not Secure] <RakanCharmiing> viene xd
+[22:58:09] [Server thread/INFO]: .Roos7w7 has made the advancement [Cover Me with Diamonds]
+[23:00:10] [Async Chat Thread - #82/INFO]: [Not Secure] <RakanCharmiing> puedes correr donde corro yo xd
+[23:01:03] [Async Chat Thread - #82/INFO]: [Not Secure] <.Roos7w7> confíe en ti ;-;
+[23:01:14] [Server thread/INFO]: RakanCharmiing was obliterated by a sonically-charged shriek
+[23:01:22] [Async Chat Thread - #82/INFO]: [Not Secure] <.Roos7w7> XD
+[23:01:28] [Async Chat Thread - #82/INFO]: [Not Secure] <RakanCharmiing> justo quedaba el ultimooo sensor
+[23:01:30] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7
+[23:01:30] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to .Roos7w7]
+[23:01:52] [Async Chat Thread - #82/INFO]: [Not Secure] <RakanCharmiing> donde era
+[23:02:09] [Async Chat Thread - #82/INFO]: [Not Secure] <.Roos7w7> alla
+[23:03:26] [Async Chat Thread - #85/INFO]: [Not Secure] <RakanCharmiing> creo ese era el ultimo ya lo quite
+[23:04:50] [Async Chat Thread - #86/INFO]: [Not Secure] <.Roos7w7> noxd
+[23:05:25] [Async Chat Thread - #86/INFO]: [Not Secure] <RakanCharmiing> ya quiite ese justo vi como pasabas
+[23:05:29] [Async Chat Thread - #86/INFO]: [Not Secure] <RakanCharmiing> pero como te aviso xd
+[23:05:51] [Async Chat Thread - #86/INFO]: [Not Secure] <.Roos7w7> salieron más?
+[23:06:26] [Server thread/INFO]: RakanCharmiing issued server command: /tp .Roos7w7 RakanCharmiing
+[23:06:26] [Server thread/INFO]: [RakanCharmiing: Teleported .Roos7w7 to RakanCharmiing]
