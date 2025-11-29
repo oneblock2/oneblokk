@@ -1,0 +1,145 @@
+[21:34:12] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[21:34:12] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[21:34:12] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:34:15] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[21:34:15] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+ - ClearLag (3.2.2), Geyser-Spigot (2.9.1-SNAPSHOT), Images (2.5.8), TreeFeller (2.0), ViaVersion (5.5.1), floodgate (2.2.5-SNAPSHOT (b121-55a85ec))
+[21:34:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:34:22] [ServerMain/INFO]: Loaded 1407 recipes
+[21:34:22] [ServerMain/INFO]: Loaded 1520 advancements
+[21:34:22] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[21:34:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 400.1ms
+[21:34:23] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:34:23] [Server thread/INFO]: Loading properties
+[21:34:23] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[21:34:23] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:34:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:34:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:34:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:34:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:34:25] [Server thread/INFO]: Default game type: SURVIVAL
+[21:34:25] [Server thread/INFO]: Generating keypair
+[21:34:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:34:25] [Server thread/INFO]: Using epoll channel type
+[21:34:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:34:25] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[21:34:26] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[21:34:27] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[21:34:27] [Server thread/INFO]: [floodgate] Took 1,179ms to boot Floodgate
+[21:34:27] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.1
+[21:34:27] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.1 is now loaded. Registering protocol transformers and injecting...
+[21:34:28] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[21:34:28] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[21:34:28] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.8
+[21:34:28] [Server thread/INFO]: [TreeFeller] Loading server plugin TreeFeller v2.0
+[21:34:28] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[21:34:28] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.1-SNAPSHOT
+[21:34:28] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[21:34:28] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[21:34:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:34:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:34:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:34:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:34:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:34:28] [Server thread/INFO]: Preparing level "world"
+[21:34:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:34:29] [Server thread/INFO]: Preparing spawn area: 0%
+[21:34:30] [Server thread/INFO]: Preparing spawn area: 2%
+[21:34:30] [Server thread/INFO]: Preparing spawn area: 20%
+[21:34:30] [Server thread/INFO]: Time elapsed: 1215 ms
+[21:34:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:34:30] [Server thread/INFO]: Preparing spawn area: 0%
+[21:34:31] [Server thread/INFO]: Preparing spawn area: 57%
+[21:34:31] [Server thread/INFO]: Time elapsed: 575 ms
+[21:34:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:34:31] [Server thread/INFO]: Preparing spawn area: 0%
+[21:34:31] [Server thread/INFO]: Time elapsed: 141 ms
+[21:34:31] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[21:34:31] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.1
+[21:34:31] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[21:34:32] [Server thread/INFO]: [Images] Enabling Images v2.5.8
+[21:34:32] [Server thread/INFO]: [Images] PaperMC server detected. Adjustments will be made to accommodate...
+[21:34:32] [Server thread/INFO]: [TreeFeller] Enabling TreeFeller v2.0
+[21:34:32] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[21:34:32] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[21:34:32] [Server thread/INFO]: [ClearLag] Loading modules...
+[21:34:32] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[21:34:32] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[21:34:32] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[21:34:32] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[21:34:32] [Thread-5/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[21:34:32] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.1-SNAPSHOT
+[21:34:32] [Thread-5/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[21:34:32] [Thread-5/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[21:34:32] [Thread-5/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[21:34:32] [Thread-5/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[21:34:32] [Thread-5/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[21:34:34] [Server thread/INFO]: [spark] Starting background profiler...
+[21:34:35] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:34:35] [Server thread/INFO]: [Geyser-Spigot] 
+[21:34:35] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b999 (git-master-dbed595)
+[21:34:35] [Server thread/INFO]: [Geyser-Spigot] 
+[21:34:35] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:34:39] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 15895
+[21:34:39] [Server thread/INFO]: [Geyser-Spigot] Done (3.921s)! Run /geyser help for help!
+[21:34:39] [Server thread/INFO]: Done preparing level "world" (10.500s)
+[21:34:39] [Server thread/INFO]: Running delayed init tasks
+[21:34:39] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[21:34:39] [Server thread/INFO]: Done (29.201s)! For help, type "help"
+[21:34:41] [Craft Scheduler Thread - 3 - Images/INFO]: [Images] Loaded 1 images...
+[21:34:49] [User Authenticator #0/INFO]: UUID of player Roos7w7 is 360f7f2a-956f-3dd1-9cb0-aba799dce5fc
+[21:34:50] [Server thread/INFO]: Roos7w7 joined the game
+[21:34:50] [Server thread/INFO]: Roos7w7[/127.58.124.23:39127] logged in with entity id 13 at ([world]-244.7826433328296, 105.0, -273.6604857172826)
+[21:46:51] [Server thread/INFO]: Roos7w7 has made the advancement [Hot Stuff]
+[22:01:57] [Server thread/INFO]: Roos7w7 was slain by Spider
+[22:02:24] [User Authenticator #1/INFO]: UUID of player RakanCharmiing is b76f5ebc-96dd-3c05-a899-79247583c23b
+[22:02:25] [Server thread/INFO]: RakanCharmiing joined the game
+[22:02:25] [Server thread/INFO]: RakanCharmiing[/127.248.185.103:49047] logged in with entity id 5609 at ([world]-256.337753352434, 111.0, -240.27200944127648)
+[22:07:20] [Server thread/INFO]: RakanCharmiing issued server command: /weather clear
+[22:07:20] [Server thread/INFO]: [RakanCharmiing: Set the weather to clear]
+[22:07:37] [Async Chat Thread - #0/INFO]: [Not Secure] <RakanCharmiing> duerme
+[22:10:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Roos7w7> si entro ahi no pierdo las cosas si me muero?
+[22:10:29] [Async Chat Thread - #2/INFO]: [Not Secure] <RakanCharmiing> si
+[22:11:41] [Server thread/INFO]: Roos7w7 has made the advancement [We Need to Go Deeper]
+[22:12:49] [Async Chat Thread - #3/INFO]: [Not Secure] <Roos7w7> me dio miedo
+[22:14:46] [Server thread/INFO]: Roos7w7 was slain by Zombie
+[22:15:00] [Server thread/WARN]: RakanCharmiing moved too quickly! 5.175189505948055,-0.41999998688697815,-10.15272536311619
+[22:15:20] [Server thread/INFO]: Roos7w7 lost connection: Disconnected
+[22:15:20] [Server thread/INFO]: Roos7w7 left the game
+[22:15:21] [Server thread/INFO]: RakanCharmiing has made the advancement [We Need to Go Deeper]
+[22:15:32] [User Authenticator #2/INFO]: UUID of player Roos7w7 is 360f7f2a-956f-3dd1-9cb0-aba799dce5fc
+[22:15:33] [Server thread/INFO]: Roos7w7 joined the game
+[22:15:33] [Server thread/INFO]: Roos7w7[/127.58.124.23:56847] logged in with entity id 8336 at ([world]-269.30000001192093, 113.0, -207.64927392507406)
+[22:17:16] [Server thread/INFO]: Roos7w7 was kicked due to keepalive timeout!
+[22:17:16] [Server thread/INFO]: Roos7w7 lost connection: Timed out
+[22:17:16] [Server thread/INFO]: Roos7w7 left the game
+[22:17:21] [User Authenticator #3/INFO]: UUID of player Roos7w7 is 360f7f2a-956f-3dd1-9cb0-aba799dce5fc
+[22:17:21] [Server thread/INFO]: Roos7w7 joined the game
+[22:17:21] [Server thread/INFO]: Roos7w7[/127.58.124.23:57553] logged in with entity id 9357 at ([world]-266.6083103770534, 111.0, -249.33336044806867)
+[22:18:59] [Async Chat Thread - #5/INFO]: [Not Secure] <RakanCharmiing> duerme
+[22:19:01] [Async Chat Thread - #5/INFO]: [Not Secure] <Roos7w7> te fuiste?
+[22:19:05] [Async Chat Thread - #5/INFO]: [Not Secure] <Roos7w7> a
+[22:19:22] [Async Chat Thread - #5/INFO]: [Not Secure] <Roos7w7> AAAAAA
+[22:19:27] [Async Chat Thread - #5/INFO]: [Not Secure] <RakanCharmiing> ?
+[22:20:33] [Async Chat Thread - #7/INFO]: [Not Secure] <Roos7w7> me traes lava?
+[22:20:42] [Async Chat Thread - #7/INFO]: [Not Secure] <RakanCharmiing> ok
+[22:21:39] [Server thread/INFO]: RakanCharmiing has made the advancement [Hot Stuff]
+[22:21:42] [Server thread/INFO]: RakanCharmiing issued server command: /tp Roos7w7
+[22:21:42] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to Roos7w7]
+[22:21:54] [Async Chat Thread - #9/INFO]: [Not Secure] <Roos7w7> gracias
+[22:29:29] [Server thread/INFO]: Villager Villager['Villager'/8558, uuid='abf098fc-e06c-48be-ab20-d8eac8d28cfe', l='ServerLevel[world]', x=-272.30, y=100.00, z=-298.50, cpos=[-18, -19], tl=16682, v=true] died, message: 'Villager was slain by Zombie'
+[22:29:52] [Async Chat Thread - #11/INFO]: [Not Secure] <Roos7w7> ;-;
+[22:30:10] [Async Chat Thread - #11/INFO]: [Not Secure] <RakanCharmiing> ?
+[22:30:20] [Server thread/INFO]: RakanCharmiing issued server command: /time set 1
+[22:30:20] [Server thread/INFO]: [RakanCharmiing: Set the time to 1]
+[22:32:08] [Async Chat Thread - #13/INFO]: [Not Secure] <RakanCharmiing> ?
+[22:32:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Roos7w7> no funciono
+[22:32:21] [Async Chat Thread - #13/INFO]: [Not Secure] <Roos7w7> el amiguito
+[22:38:27] [Async Chat Thread - #15/INFO]: [Not Secure] <RakanCharmiing> y el otro aldeano?
+[22:38:34] [Async Chat Thread - #15/INFO]: [Not Secure] <Roos7w7> no se
+[22:41:06] [Server thread/INFO]: Roos7w7 has made the advancement [Fishy Business]
+[22:42:44] [Async Chat Thread - #17/INFO]: [Not Secure] <RakanCharmiing> esta en la vercion superior a esta
+[22:42:55] [Async Chat Thread - #17/INFO]: [Not Secure] <RakanCharmiing> vere cuando me deje actualizar el server
+[22:46:50] [Async Chat Thread - #19/INFO]: [Not Secure] <RakanCharmiing> y el otro aldeano?
+[22:46:58] [Async Chat Thread - #19/INFO]: [Not Secure] <Roos7w7> nose x2
+[22:47:18] [Async Chat Thread - #19/INFO]: [Not Secure] <Roos7w7> cuando entre no los vi
